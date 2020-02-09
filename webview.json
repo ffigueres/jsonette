@@ -1,0 +1,10 @@
+{
+    "$jason": {
+        "body": {
+            "background": {
+                "type": "html",
+                "text": "<html><body><h1>Hello World</h1></body></html>"
+            }
+        }
+    }
+}
