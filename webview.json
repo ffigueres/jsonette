@@ -3,7 +3,8 @@
         "body": {
             "background": {
                 "type": "html",
-                "url": "https://leafletjs.com/examples/mobile/example.html"
+                "url": "https://leafletjs.com/examples/mobile/example.html",
+                "action": {"type": "$default"}
             }
         }
     }
