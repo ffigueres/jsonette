@@ -3,7 +3,7 @@
         "body": {
             "background": {
                 "type": "html",
-                "url": "https://leafletjs.com/examples/mobile/example.html",
+                "url": "https://flespi.io/login/#/providers",
                 "action": {"type": "$default"}
             }
         }
